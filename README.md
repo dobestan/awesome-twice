@@ -43,18 +43,46 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 
 ## The Story Begins
 
+![The Story Begins](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/albums/the-story-begins.jpg)
+
 
 # Members
 
 ## Nayeon
+
+![Nayeon](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/nayeon/profile.jpg)
+
 ## Jeongyeon
+
+![Jeongyeon](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jeongyeon/profile.jpg)
+
 ## Momo
+
+![Momo](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/momo/profile.jpg)
+
 ## Sana
+
+![Sana](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/sana/profile.jpg)
+
 ## Jihyo
+
+![Jihyo](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jihyo/profile.jpg)
+
 ## Mina
+
+![Mina](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/mina/profile.jpg)
+
 ## Dahyun
+
+![Dahyun](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/dahyun/profile.jpg)
+
 ## Chaeyoung
+
+![Chaeyoung](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/chaeyoung/profile.jpg)
+
 ## Tzuyu
+
+![Tzuyu](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/tzuyu/profile.jpg)
 
 
 # Resources
