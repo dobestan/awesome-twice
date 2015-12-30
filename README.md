@@ -1,5 +1,9 @@
 # Awesome Twice [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Homepage](https://img.shields.io/badge/Official Homepage-Twice-blue.svg?style=flat-square)](http://twice.jype.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-JYPETWICE-blue.svg?style=flat-square)](https://www.facebook.com/JYPETWICE/)
+[![Instagram](https://img.shields.io/badge/Instagram-@twicetagram-blue.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
+
 :revolving_hearts: Curated list of lovely K-Pop girl group [TWICE](#who-is-twice) :revolving_hearts:
 
 | CI Service | Status |
