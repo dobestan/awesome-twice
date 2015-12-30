@@ -2,6 +2,14 @@
 
 :revolving_hearts: Curated list of lovely K-Pop girl group [TWICE](#who-is-twice) :revolving_hearts:
 
+| CI Service | Status |
+| ---------- | ------ |
+| [Travis CI](https://travis-ci.org/dobestan/awesome-twice) | [![Travis CI](https://img.shields.io/travis/dobestan/awesome-twice/master.svg?style=flat-square)](https://travis-ci.org/dobestan/awesome-twice) |
+| [Circle CI](https://circleci.com/gh/dobestan/awesome-twice) | [![Circie CI](https://img.shields.io/circleci/project/dobestan/awesome-twice/master.svg?style=flat-square)](https://circleci.com/gh/dobestan/awesome-twice) |
+
+[awesome-twice](https://github.com/dobestan/awesome-twice) is **well-tested** project via various Continous Integration Services.
+CI Services mainly check whether `AWESOME_TWICE` is `true` or not. What a nice test case! :sunglasses:
+
 - [awesome-twice](#awesome-twice)
     - [Who is TWICE?](#who-is-twice)
 - [Albums](#albums)
