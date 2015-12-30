@@ -1,0 +1,9 @@
+machine:
+    timezone:
+        Asia/Seoul
+    python:
+        version: 3.5.0
+
+test:
+    override:
+        - test AWESOME_TWICE
