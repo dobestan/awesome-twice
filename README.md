@@ -51,6 +51,17 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 
 ![The Story Begins](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/albums/the-story-begins.jpg)
 
+[The Story Begins](#the-story-begins) is the debut extended play. The album was released digitally and physically on October 20, 2015. The album contains six tracks with the lead single, "Like Ooh Ahh".
+
+| No. | Title            | MV                                                   |
+| --- | ---------------- | ---------------------------------------------------- |
+| 1   | "Like Ooh Ahh"   | [Available on Youtube](https://youtu.be/0rtV5esQT6I) |
+| 2   | "Do It Again"    |                                                      |
+| 3   | "Must Be Crazy"  |                                                      |
+| 4   | "Truth"          |                                                      |
+| 5   | "Candy Boy"      |                                                      |
+| 6   | "Like a Fool"    |                                                      |
+
 
 # Members
 
@@ -94,6 +105,7 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 # References
 
 - [Twice (band), Wikipedia](https://en.wikipedia.org/wiki/Twice_(band))
+- [The Story Begins, Wikipedia](https://en.wikipedia.org/wiki/The_Story_Begins)
 
 
 # External links
