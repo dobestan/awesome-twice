@@ -67,39 +67,57 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 
 ## Nayeon
 
-![Nayeon](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/nayeon/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/nayeon/profile.jpg" />
+</p>
 
 ## Jeongyeon
 
-![Jeongyeon](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jeongyeon/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jeongyeon/profile.jpg" />
+</p>
 
 ## Momo
 
-![Momo](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/momo/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/momo/profile.jpg" />
+</p>
 
 ## Sana
 
-![Sana](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/sana/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/sana/profile.jpg" />
+</p>
 
 ## Jihyo
 
-![Jihyo](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jihyo/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jihyo/profile.jpg" />
+</p>
 
 ## Mina
 
-![Mina](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/mina/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/mina/profile.jpg" />
+</p>
 
 ## Dahyun
 
-![Dahyun](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/dahyun/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/dahyun/profile.jpg" />
+</p>
 
 ## Chaeyoung
 
-![Chaeyoung](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/chaeyoung/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/chaeyoung/profile.jpg" />
+</p>
 
 ## Tzuyu
 
-![Tzuyu](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/tzuyu/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/tzuyu/profile.jpg" />
+</p>
 
 
 # References
