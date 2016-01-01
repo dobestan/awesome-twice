@@ -1,9 +1,9 @@
 # Awesome Twice [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Homepage](https://img.shields.io/badge/Official Homepage-Twice-blue.svg?style=flat-square)](http://twice.jype.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-JYPETWICE-blue.svg?style=flat-square)](https://www.facebook.com/JYPETWICE/)
-[![Twitter](https://img.shields.io/badge/Twitter-JYPETWICE-blue.svg?style=flat-square)](https://twitter.com/JYPETWICE)
-[![Instagram](https://img.shields.io/badge/Instagram-twicetagram-blue.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
+[![Facebook](https://img.shields.io/badge/Facebook-JYPETWICE-3b5998.svg?style=flat-square)](https://www.facebook.com/JYPETWICE/)
+[![Twitter](https://img.shields.io/badge/Twitter-JYPETWICE-00aced.svg?style=flat-square)](https://twitter.com/JYPETWICE)
+[![Instagram](https://img.shields.io/badge/Instagram-twicetagram-517fa4.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
 
 :revolving_hearts: Curated list of lovely K-Pop girl group [TWICE](#who-is-twice) :revolving_hearts:
 
@@ -55,7 +55,7 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 
 | No. | Title            | MV                                                   |
 | --- | ---------------- | ---------------------------------------------------- |
-| 1   | "Like Ooh Ahh"   | [Available on Youtube](https://youtu.be/0rtV5esQT6I) |
+| 1   | "Like Ooh Ahh"   | [![Yotube](https://img.shields.io/badge/Available on Youtube-Like Ooh Ahh-red.svg?style=flat-square)](https://youtu.be/0rtV5esQT6I) |
 | 2   | "Do It Again"    |                                                      |
 | 3   | "Must Be Crazy"  |                                                      |
 | 4   | "Truth"          |                                                      |
@@ -67,39 +67,57 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 
 ## Nayeon
 
-![Nayeon](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/nayeon/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/nayeon/profile.jpg" />
+</p>
 
 ## Jeongyeon
 
-![Jeongyeon](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jeongyeon/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jeongyeon/profile.jpg" />
+</p>
 
 ## Momo
 
-![Momo](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/momo/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/momo/profile.jpg" />
+</p>
 
 ## Sana
 
-![Sana](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/sana/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/sana/profile.jpg" />
+</p>
 
 ## Jihyo
 
-![Jihyo](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jihyo/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/jihyo/profile.jpg" />
+</p>
 
 ## Mina
 
-![Mina](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/mina/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/mina/profile.jpg" />
+</p>
 
 ## Dahyun
 
-![Dahyun](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/dahyun/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/dahyun/profile.jpg" />
+</p>
 
 ## Chaeyoung
 
-![Chaeyoung](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/chaeyoung/profile.jpg)
+<p align="left">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/chaeyoung/profile.jpg" />
+</p>
 
 ## Tzuyu
 
-![Tzuyu](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/tzuyu/profile.jpg)
+<p align="right">
+    <img src="https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/tzuyu/profile.jpg" />
+</p>
 
 
 # References
@@ -112,6 +130,6 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 
 - [![Official Homepage](https://img.shields.io/badge/Official Homepage-Twice-blue.svg?style=flat-square)](http://twice.jype.com/)
 - [![Official FanPage](https://img.shields.io/badge/Official FanPage-Twice-blue.svg?style=flat-square)](http://fans.jype.com/Portal)
-- [![Official Facebook](https://img.shields.io/badge/Official Facebook-JYPETWICE-blue.svg?style=flat-square)](https://www.facebook.com/JYPETWICE/)
-- [![Official Twitter](https://img.shields.io/badge/Twitter-JYPETWICE-blue.svg?style=flat-square)](https://twitter.com/JYPETWICE)
-- [![Official Instagram](https://img.shields.io/badge/Instagram-twicetagram-blue.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
+- [![Official Facebook](https://img.shields.io/badge/Official Facebook-JYPETWICE-3b5998.svg?style=flat-square)](https://www.facebook.com/JYPETWICE/)
+- [![Official Twitter](https://img.shields.io/badge/Twitter-JYPETWICE-00aced.svg?style=flat-square)](https://twitter.com/JYPETWICE)
+- [![Official Instagram](https://img.shields.io/badge/Instagram-twicetagram-517fa4.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
