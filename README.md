@@ -14,6 +14,11 @@
 [awesome-twice](https://github.com/dobestan/awesome-twice) is **well-tested** project via various Continous Integration Services.
 CI Services mainly check whether `AWESOME_TWICE` is `true` or not. What a nice test case! :sunglasses:
 
+![Twice](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/twice.jpg)
+
+
+## Table of Contents
+
 - [awesome-twice](#awesome-twice)
     - [Who is TWICE?](#who-is-twice)
 - [Albums](#albums)
