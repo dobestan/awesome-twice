@@ -2,7 +2,8 @@
 
 [![Homepage](https://img.shields.io/badge/Official Homepage-Twice-blue.svg?style=flat-square)](http://twice.jype.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-JYPETWICE-blue.svg?style=flat-square)](https://www.facebook.com/JYPETWICE/)
-[![Instagram](https://img.shields.io/badge/Instagram-@twicetagram-blue.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
+[![Twitter](https://img.shields.io/badge/Twitter-JYPETWICE-blue.svg?style=flat-square)](https://twitter.com/JYPETWICE)
+[![Instagram](https://img.shields.io/badge/Instagram-twicetagram-blue.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
 
 :revolving_hearts: Curated list of lovely K-Pop girl group [TWICE](#who-is-twice) :revolving_hearts:
 
@@ -90,4 +91,15 @@ Debuted on October 20, 2015, with the mini-album [The Story Begins](#the-story-b
 ![Tzuyu](https://raw.githubusercontent.com/dobestan/awesome-twice/master/images/members/tzuyu/profile.jpg)
 
 
-# Resources
+# References
+
+- [Twice (band), Wikipedia](https://en.wikipedia.org/wiki/Twice_(band))
+
+
+# External links
+
+- [![Official Homepage](https://img.shields.io/badge/Official Homepage-Twice-blue.svg?style=flat-square)](http://twice.jype.com/)
+- [![Official FanPage](https://img.shields.io/badge/Official FanPage-Twice-blue.svg?style=flat-square)](http://fans.jype.com/Portal)
+- [![Official Facebook](https://img.shields.io/badge/Official Facebook-JYPETWICE-blue.svg?style=flat-square)](https://www.facebook.com/JYPETWICE/)
+- [![Official Twitter](https://img.shields.io/badge/Twitter-JYPETWICE-blue.svg?style=flat-square)](https://twitter.com/JYPETWICE)
+- [![Official Instagram](https://img.shields.io/badge/Instagram-twicetagram-blue.svg?style=flat-square)](https://www.instagram.com/twicetagram/)
